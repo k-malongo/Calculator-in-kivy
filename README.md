@@ -1,2 +1,3 @@
 # Calculator in kivy
- Android application made in kivy a python framework
+
+This is an android application made in kivy a python framework
